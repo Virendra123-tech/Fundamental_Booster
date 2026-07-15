@@ -1,0 +1,1 @@
+i used for loop to get first 10 numbers
